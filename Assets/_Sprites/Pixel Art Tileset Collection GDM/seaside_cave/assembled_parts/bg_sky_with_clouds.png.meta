@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_sky_with_clouds_0: 809384806144908477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

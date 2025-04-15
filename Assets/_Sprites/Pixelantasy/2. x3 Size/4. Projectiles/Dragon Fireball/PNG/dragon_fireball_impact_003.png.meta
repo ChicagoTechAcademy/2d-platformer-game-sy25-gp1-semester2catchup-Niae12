@@ -260,7 +260,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_fireball_impact_003_0: -5112686079325280484
+      dragon_fireball_impact_003_1: -6003810456361386511
+      dragon_fireball_impact_003_2: -3809602459563618245
+      dragon_fireball_impact_003_3: 7061656481085758079
+      dragon_fireball_impact_003_4: 4352597623402428757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

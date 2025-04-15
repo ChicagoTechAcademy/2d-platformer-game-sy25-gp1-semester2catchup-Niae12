@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peasant_attack_002_0: -6657397519881496524
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

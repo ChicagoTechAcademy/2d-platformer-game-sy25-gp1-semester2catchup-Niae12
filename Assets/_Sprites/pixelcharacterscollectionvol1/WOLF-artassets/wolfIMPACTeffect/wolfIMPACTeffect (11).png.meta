@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wolfIMPACTeffect (11)_0: -5270861259295592463
+      wolfIMPACTeffect (11)_1: 4864770407585465182
+      wolfIMPACTeffect (11)_10: 967759254343529281
+      wolfIMPACTeffect (11)_11: 2019471752544723617
+      wolfIMPACTeffect (11)_12: -4193640294929855405
+      wolfIMPACTeffect (11)_13: -8833963446279803200
+      wolfIMPACTeffect (11)_14: -3505663077359691562
+      wolfIMPACTeffect (11)_2: 1119832298370712459
+      wolfIMPACTeffect (11)_3: 995047805417909958
+      wolfIMPACTeffect (11)_4: -5276537821896491240
+      wolfIMPACTeffect (11)_5: -5917603595963613911
+      wolfIMPACTeffect (11)_6: -7481325261768637835
+      wolfIMPACTeffect (11)_7: 103955704154830484
+      wolfIMPACTeffect (11)_8: 7244026743095199732
+      wolfIMPACTeffect (11)_9: 6825673748338727606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

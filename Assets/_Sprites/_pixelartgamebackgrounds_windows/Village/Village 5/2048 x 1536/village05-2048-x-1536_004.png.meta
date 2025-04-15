@@ -410,7 +410,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      village05-2048-x-1536_004_0: 6699658789425444872
+      village05-2048-x-1536_004_1: 4947687769177323685
+      village05-2048-x-1536_004_10: 5214356710213752157
+      village05-2048-x-1536_004_2: 8705155931488575304
+      village05-2048-x-1536_004_3: -6707947907995296894
+      village05-2048-x-1536_004_4: -471139373930802622
+      village05-2048-x-1536_004_5: -4257999133578891947
+      village05-2048-x-1536_004_6: -118496744394655487
+      village05-2048-x-1536_004_7: 6490861350557963497
+      village05-2048-x-1536_004_8: -946512188445352105
+      village05-2048-x-1536_004_9: 3299336412312922431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

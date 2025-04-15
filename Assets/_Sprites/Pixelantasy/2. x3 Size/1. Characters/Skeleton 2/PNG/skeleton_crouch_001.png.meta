@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeleton_crouch_001_0: -2735322858960201477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock-small-pattern_0: -2283859081802621727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

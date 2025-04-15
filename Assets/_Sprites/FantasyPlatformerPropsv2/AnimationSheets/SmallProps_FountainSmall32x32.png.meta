@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallProps_FountainSmall32x32_0: 897748860883139329
+      SmallProps_FountainSmall32x32_1: -8828315042814980636
+      SmallProps_FountainSmall32x32_2: -5362749008052868168
+      SmallProps_FountainSmall32x32_3: -4298688697578377240
+      SmallProps_FountainSmall32x32_4: -9168444051236661706
+      SmallProps_FountainSmall32x32_5: -4445644619576441024
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

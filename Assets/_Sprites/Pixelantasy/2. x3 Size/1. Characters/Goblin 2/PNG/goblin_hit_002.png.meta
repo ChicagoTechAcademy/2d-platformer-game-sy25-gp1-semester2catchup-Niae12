@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      goblin_hit_002_0: -8556277896364616795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

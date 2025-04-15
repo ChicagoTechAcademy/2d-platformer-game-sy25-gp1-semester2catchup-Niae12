@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elf_male_die_005_0: 7439850348484859192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

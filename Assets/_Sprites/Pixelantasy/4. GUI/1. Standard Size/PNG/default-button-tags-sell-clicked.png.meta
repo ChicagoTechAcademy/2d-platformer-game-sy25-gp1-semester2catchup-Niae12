@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      default-button-tags-sell-clicked_0: 1401881772820042186
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

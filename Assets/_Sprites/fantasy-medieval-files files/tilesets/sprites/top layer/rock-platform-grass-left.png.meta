@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock-platform-grass-left_0: -7429832157190074304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

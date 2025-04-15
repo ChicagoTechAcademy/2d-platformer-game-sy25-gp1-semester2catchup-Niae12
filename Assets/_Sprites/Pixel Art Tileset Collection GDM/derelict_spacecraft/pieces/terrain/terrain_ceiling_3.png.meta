@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_ceiling_3_0: -2031519520469620578
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

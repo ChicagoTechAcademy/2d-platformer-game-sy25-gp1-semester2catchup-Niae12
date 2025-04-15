@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      archskeletonPORTRAITright_0: -1237784590341727097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

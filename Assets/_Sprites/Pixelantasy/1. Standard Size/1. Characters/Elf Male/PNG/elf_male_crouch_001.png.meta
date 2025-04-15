@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elf_male_crouch_001_0: -7953359734601988085
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

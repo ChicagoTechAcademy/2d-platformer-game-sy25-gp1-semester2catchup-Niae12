@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minotaur_crouch_002_0: 3060547534309538566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

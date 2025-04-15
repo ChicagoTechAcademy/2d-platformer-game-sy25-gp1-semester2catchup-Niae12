@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      directional button small_0: 5906794673944097887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

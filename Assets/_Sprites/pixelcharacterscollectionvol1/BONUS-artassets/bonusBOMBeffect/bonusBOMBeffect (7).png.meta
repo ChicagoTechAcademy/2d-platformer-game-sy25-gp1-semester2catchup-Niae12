@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonusBOMBeffect (7)_0: 1655181375003620367
+      bonusBOMBeffect (7)_1: 7830848939100399933
+      bonusBOMBeffect (7)_2: 1541557361839196288
+      bonusBOMBeffect (7)_3: 6836886360046267213
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

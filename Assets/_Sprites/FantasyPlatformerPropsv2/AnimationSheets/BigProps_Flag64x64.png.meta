@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigProps_Flag64x64_0: 4112733680017490518
+      BigProps_Flag64x64_1: 4007696327050419712
+      BigProps_Flag64x64_2: 1994750392421116448
+      BigProps_Flag64x64_3: -6312469676982674307
+      BigProps_Flag64x64_4: 8813459619658219362
+      BigProps_Flag64x64_5: -9087375433992707225
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

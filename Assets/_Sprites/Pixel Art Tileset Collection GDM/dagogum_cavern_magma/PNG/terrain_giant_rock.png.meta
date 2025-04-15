@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_giant_rock_0: -5155696471789169959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sunbeam_A_0: 8407543306587761356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

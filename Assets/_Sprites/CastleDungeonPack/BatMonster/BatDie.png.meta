@@ -610,7 +610,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BatDie_0: 6977969096588471914
+      BatDie_1: -1278078050838859359
+      BatDie_10: -4298242660073509147
+      BatDie_11: 4495927189221389992
+      BatDie_12: 810738516298889216
+      BatDie_13: -5835505181965129991
+      BatDie_14: 1234282271905751841
+      BatDie_15: -5441677521426973722
+      BatDie_16: -8038579388683966290
+      BatDie_17: 536117993915750981
+      BatDie_18: 8949697143684605755
+      BatDie_2: 6069811555895453733
+      BatDie_3: 8136316968793729111
+      BatDie_4: 9137072841625359422
+      BatDie_5: 3626570603817453097
+      BatDie_6: -8524076204441998360
+      BatDie_7: 1067949382252440336
+      BatDie_8: 7964388598650316087
+      BatDie_9: -2828736017085589707
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

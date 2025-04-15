@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peasant_die_002_0: -8744607858525752168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

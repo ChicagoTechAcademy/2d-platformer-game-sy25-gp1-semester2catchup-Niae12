@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_pillars_3_0: 8796220646631912092
+      bg_pillars_3_1: -4587219629150328796
+      bg_pillars_3_2: -1289378043590143802
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

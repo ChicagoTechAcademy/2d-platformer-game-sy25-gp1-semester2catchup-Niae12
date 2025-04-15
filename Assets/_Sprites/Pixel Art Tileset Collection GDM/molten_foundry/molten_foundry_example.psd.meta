@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      molten_foundry_example_0: -2586677448258777327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lizard_man_walk_004_0: 692525435279644313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

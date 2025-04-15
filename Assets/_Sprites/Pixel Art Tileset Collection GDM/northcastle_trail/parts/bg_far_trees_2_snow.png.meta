@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_far_trees_2_snow_0: -8960844964920568365
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

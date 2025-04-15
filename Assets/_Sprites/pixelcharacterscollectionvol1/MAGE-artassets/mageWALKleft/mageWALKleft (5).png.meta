@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mageWALKleft (5)_0: 844420804769828110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

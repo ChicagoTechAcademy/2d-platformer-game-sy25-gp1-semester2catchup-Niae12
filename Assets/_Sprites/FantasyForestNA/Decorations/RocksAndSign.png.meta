@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RocksAndSign_0: 6727495677646683704
+      RocksAndSign_1: 3995688518458973701
+      RocksAndSign_2: -2894599326449382010
+      RocksAndSign_3: -5608985462611672816
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

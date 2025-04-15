@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      village04-512-x-256_004_0: 2101583541342118194
+      village04-512-x-256_004_1: 2785509422100478513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      deck_left_shadowed_0: 4877077474364785820
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

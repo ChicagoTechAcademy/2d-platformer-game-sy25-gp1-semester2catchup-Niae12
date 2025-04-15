@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peasant_crouch_001_0: 2296934855795508907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

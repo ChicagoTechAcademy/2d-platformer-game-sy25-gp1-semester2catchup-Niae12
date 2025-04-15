@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_underwater_slope_right_0: -355730128287722037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

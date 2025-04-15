@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard-attack-vfx_impact-003_0: 7382602892851071404
+      wizard-attack-vfx_impact-003_1: 8729502826545469746
+      wizard-attack-vfx_impact-003_2: -4571980624690660053
+      wizard-attack-vfx_impact-003_3: -4672023996691091872
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wolfPORTRAITright_0: 7639523423392800167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

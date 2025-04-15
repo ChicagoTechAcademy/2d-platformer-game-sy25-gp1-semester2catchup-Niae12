@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barbarian_walk_004_0: 7518918075137928384
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

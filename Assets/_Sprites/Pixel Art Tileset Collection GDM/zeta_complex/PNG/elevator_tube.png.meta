@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elevator_tube_0: 1143428771387566119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

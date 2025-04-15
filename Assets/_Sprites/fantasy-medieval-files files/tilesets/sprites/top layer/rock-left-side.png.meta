@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock-left-side_0: 3991393753743223358
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

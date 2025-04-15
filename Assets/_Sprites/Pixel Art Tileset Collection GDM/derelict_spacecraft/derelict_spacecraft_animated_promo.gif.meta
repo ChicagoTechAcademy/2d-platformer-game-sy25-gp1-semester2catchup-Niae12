@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      derelict_spacecraft_animated_promo_0: 7046832272041481666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

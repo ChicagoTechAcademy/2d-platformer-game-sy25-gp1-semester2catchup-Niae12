@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      weapon_swoosh_001_0: -8505935288864769168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

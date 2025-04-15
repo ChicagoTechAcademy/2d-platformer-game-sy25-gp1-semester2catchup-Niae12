@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      green_poison_impact_001_0: 8917553958712251142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

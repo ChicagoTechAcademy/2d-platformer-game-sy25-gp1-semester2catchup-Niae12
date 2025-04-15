@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      groun-pines-right_0: 4012886679792104751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      doodad_wire_corner_bottom_to_right_0: -4061473798385282189
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

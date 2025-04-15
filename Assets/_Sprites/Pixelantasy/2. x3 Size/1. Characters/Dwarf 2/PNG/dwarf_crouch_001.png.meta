@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dwarf_crouch_001_0: 8775868895080381701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

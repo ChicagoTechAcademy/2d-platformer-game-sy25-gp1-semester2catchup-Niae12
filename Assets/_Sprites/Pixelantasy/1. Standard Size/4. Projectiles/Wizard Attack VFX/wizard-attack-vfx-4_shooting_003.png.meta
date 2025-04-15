@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard-attack-vfx-4_shooting_003_0: -893870927294383146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -485,7 +485,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_tree_3_0: -9161270429377437083
+      bg_tree_3_1: 2169257360026580595
+      bg_tree_3_10: -7571684131027701221
+      bg_tree_3_11: -1146094996507813669
+      bg_tree_3_12: 7151410321645030855
+      bg_tree_3_13: -4412107145777104124
+      bg_tree_3_2: 5956913890332060437
+      bg_tree_3_3: 5521751327197519909
+      bg_tree_3_4: 7866643199365605626
+      bg_tree_3_5: -4205013153836570607
+      bg_tree_3_6: -4948596572067809934
+      bg_tree_3_7: -7997506647595393721
+      bg_tree_3_8: 6736017047910380862
+      bg_tree_3_9: -7662148498010326610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

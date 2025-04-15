@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CastleSlopes_0: -2953710417894781088
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

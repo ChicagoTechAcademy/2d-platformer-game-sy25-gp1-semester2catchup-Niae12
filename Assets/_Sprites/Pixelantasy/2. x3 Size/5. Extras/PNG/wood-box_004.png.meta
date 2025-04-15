@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wood-box_004_0: -3432878643778541199
+      wood-box_004_1: 2087279884270559698
+      wood-box_004_2: -5359942050268991690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dungeon_cell_skeleton_0: -990834301415312864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

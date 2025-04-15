@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigProps_FountainBig64x64_0: 5535312113210077330
+      BigProps_FountainBig64x64_1: -5833305567509645796
+      BigProps_FountainBig64x64_2: -5989576997309025920
+      BigProps_FountainBig64x64_3: -4690508162387151273
+      BigProps_FountainBig64x64_4: 5201998549956113864
+      BigProps_FountainBig64x64_5: -6882392131113156445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

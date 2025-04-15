@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_demon_crouch_001_0: 8238699135387821952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

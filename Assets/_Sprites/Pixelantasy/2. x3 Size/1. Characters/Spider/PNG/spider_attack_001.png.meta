@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spider_attack_001_0: -8762945815262297380
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

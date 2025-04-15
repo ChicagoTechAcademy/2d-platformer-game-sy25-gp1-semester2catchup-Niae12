@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gunwomanIMPACTeffect (1)_0: 6093206384147079558
+      gunwomanIMPACTeffect (1)_1: 7414339483417616249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

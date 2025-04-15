@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallProps_Chest4_32x32_0: -4387700293634082176
+      SmallProps_Chest4_32x32_1: 2611372421929736261
+      SmallProps_Chest4_32x32_2: -9031592944263397319
+      SmallProps_Chest4_32x32_3: 4388231187049994766
+      SmallProps_Chest4_32x32_4: 1945559024921464591
+      SmallProps_Chest4_32x32_5: 4689899968216671767
+      SmallProps_Chest4_32x32_6: -7416905499512856334
+      SmallProps_Chest4_32x32_7: -6876366671871968938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

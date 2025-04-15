@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fg_railing_left_end_0: 5327675471729001359
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

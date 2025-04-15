@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      scorpion_walk_004_0: -7183183757304408407
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

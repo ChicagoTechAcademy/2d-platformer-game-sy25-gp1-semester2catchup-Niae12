@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeletonarcherIMAPACTeffect (10)_0: 3422877608394839030
+      skeletonarcherIMAPACTeffect (10)_1: 186891513453607589
+      skeletonarcherIMAPACTeffect (10)_2: -1239749003520966314
+      skeletonarcherIMAPACTeffect (10)_3: -3544043665296895291
+      skeletonarcherIMAPACTeffect (10)_4: 3383140050005323826
+      skeletonarcherIMAPACTeffect (10)_5: -8473019022334589496
+      skeletonarcherIMAPACTeffect (10)_6: -4452427894442923393
+      skeletonarcherIMAPACTeffect (10)_7: 2300051723539106244
+      skeletonarcherIMAPACTeffect (10)_8: 8040482242381808485
+      skeletonarcherIMAPACTeffect (10)_9: 8577900363130301056
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

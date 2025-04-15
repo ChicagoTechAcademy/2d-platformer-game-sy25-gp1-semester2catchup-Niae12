@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_foliage_0: 8765861104342736570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

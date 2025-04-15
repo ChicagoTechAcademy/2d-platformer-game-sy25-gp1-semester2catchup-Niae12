@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      seaside_cave_example_0: -7238547296225855261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

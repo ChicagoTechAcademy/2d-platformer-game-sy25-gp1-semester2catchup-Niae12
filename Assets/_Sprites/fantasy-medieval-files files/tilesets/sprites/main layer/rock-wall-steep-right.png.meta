@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock-wall-steep-right_0: 8170059538207732505
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

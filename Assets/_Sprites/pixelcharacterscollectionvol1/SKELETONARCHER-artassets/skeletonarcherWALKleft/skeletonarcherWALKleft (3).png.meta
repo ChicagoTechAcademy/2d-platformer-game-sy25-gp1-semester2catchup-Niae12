@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeletonarcherWALKleft (3)_0: 7896464031331393104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

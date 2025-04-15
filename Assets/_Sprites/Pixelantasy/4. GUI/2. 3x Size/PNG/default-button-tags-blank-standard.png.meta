@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      default-button-tags-blank-standard_0: -2009181003437897245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

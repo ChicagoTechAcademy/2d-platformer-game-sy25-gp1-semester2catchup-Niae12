@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peasant_jump_004_0: 6827012580162935926
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

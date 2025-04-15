@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      scorpion_run_002_0: -2550107724089118341
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

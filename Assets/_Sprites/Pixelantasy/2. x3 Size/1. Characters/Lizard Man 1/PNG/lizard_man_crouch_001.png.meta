@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lizard_man_crouch_001_0: 1043826558657259244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_cave_top_right_edge_1_0: -5810879717359277397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

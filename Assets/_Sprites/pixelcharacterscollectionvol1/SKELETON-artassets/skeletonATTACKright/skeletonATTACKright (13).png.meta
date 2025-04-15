@@ -635,7 +635,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeletonATTACKright (13)_0: 3860501501335956074
+      skeletonATTACKright (13)_1: 428640329426988287
+      skeletonATTACKright (13)_10: -5212593113149630682
+      skeletonATTACKright (13)_11: 4079578086083445118
+      skeletonATTACKright (13)_12: -6488538811138098226
+      skeletonATTACKright (13)_13: -1809856089162564061
+      skeletonATTACKright (13)_14: 1204398261486787924
+      skeletonATTACKright (13)_15: -4157427784370260036
+      skeletonATTACKright (13)_16: 4493730333344396519
+      skeletonATTACKright (13)_17: 3220999494906118365
+      skeletonATTACKright (13)_18: -2145423194081332982
+      skeletonATTACKright (13)_19: 7899367390832572403
+      skeletonATTACKright (13)_2: 7526159281451393029
+      skeletonATTACKright (13)_3: -6203596291396414773
+      skeletonATTACKright (13)_4: -411690438493896099
+      skeletonATTACKright (13)_5: -8741059078244964793
+      skeletonATTACKright (13)_6: -8049105371027396371
+      skeletonATTACKright (13)_7: 555948494243608836
+      skeletonATTACKright (13)_8: 9195343505043261431
+      skeletonATTACKright (13)_9: -6765579496707459523
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

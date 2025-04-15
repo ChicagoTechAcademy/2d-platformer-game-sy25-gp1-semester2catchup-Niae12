@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock_rolling_003_0: -3538340869195898917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

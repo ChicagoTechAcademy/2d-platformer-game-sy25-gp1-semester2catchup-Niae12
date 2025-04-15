@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      treant_die_005_0: 2606394240863090978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

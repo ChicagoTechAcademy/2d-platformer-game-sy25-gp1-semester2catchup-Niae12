@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      derelict_spacecraft_wallpaper_0: 1218665408280778366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      big-rock-platform-grass_0: -4231337480671404249
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

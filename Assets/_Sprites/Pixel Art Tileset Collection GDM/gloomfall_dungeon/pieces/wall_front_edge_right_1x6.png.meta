@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wall_front_edge_right_1x6_0: 668407108141257863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

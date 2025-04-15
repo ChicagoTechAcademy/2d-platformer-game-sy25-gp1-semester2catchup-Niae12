@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barrel_laid_rolling_003_0: -8288077967055770621
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

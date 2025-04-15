@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ground_blue_2x3_B_0: 3038819566688227045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

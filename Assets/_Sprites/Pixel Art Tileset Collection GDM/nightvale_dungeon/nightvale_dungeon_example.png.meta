@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      nightvale_dungeon_example_0: 2381978160973109389
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

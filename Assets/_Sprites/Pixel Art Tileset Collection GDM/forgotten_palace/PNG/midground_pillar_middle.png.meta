@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      midground_pillar_middle_0: -1487845863787064302
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

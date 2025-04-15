@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      minotaur_walk_0: 933424797534774890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

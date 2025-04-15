@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fire_demon_die_005_0: 877444849108991716
+      fire_demon_die_005_1: 70281153579914543
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

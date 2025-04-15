@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DeepForestTileset_0: 8493671245043655595
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

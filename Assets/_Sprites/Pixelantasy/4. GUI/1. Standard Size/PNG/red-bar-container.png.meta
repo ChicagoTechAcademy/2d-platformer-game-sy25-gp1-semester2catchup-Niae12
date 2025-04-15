@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      red-bar-container_0: 5561848208169091288
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

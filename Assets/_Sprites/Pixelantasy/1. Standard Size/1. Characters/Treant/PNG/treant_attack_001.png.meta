@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      treant_attack_001_0: 6616828037021227869
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

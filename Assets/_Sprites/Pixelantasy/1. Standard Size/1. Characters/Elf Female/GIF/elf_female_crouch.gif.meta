@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elf_female_crouch_0: 6883314421862538297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

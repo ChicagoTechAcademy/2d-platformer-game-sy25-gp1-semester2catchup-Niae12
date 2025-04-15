@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      knightATTACKright (13)_0: -7004449233460850985
+      knightATTACKright (13)_1: 6979090560188828132
+      knightATTACKright (13)_10: -6599871300514208619
+      knightATTACKright (13)_11: 427704333329107175
+      knightATTACKright (13)_12: -1280416230326862092
+      knightATTACKright (13)_2: 7593903445795455298
+      knightATTACKright (13)_3: 5468634140943488556
+      knightATTACKright (13)_4: 1176063834691424826
+      knightATTACKright (13)_5: 1033488544669613725
+      knightATTACKright (13)_6: -7986900243122781872
+      knightATTACKright (13)_7: 83190894600734888
+      knightATTACKright (13)_8: -5224514858494070123
+      knightATTACKright (13)_9: 6514720572258969199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

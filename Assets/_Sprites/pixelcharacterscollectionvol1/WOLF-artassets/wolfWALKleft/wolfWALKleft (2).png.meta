@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wolfWALKleft (2)_0: 3592601723305983098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

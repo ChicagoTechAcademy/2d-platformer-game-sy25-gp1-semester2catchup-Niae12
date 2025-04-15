@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeletonPORTRAITleft_0: -2427126666921669588
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

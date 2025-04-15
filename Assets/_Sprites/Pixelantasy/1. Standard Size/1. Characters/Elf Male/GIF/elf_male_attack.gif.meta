@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elf_male_attack_0: -555170722232928279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

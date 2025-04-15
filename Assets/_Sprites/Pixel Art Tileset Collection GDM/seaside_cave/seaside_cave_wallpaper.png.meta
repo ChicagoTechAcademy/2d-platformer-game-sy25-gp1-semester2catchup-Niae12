@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      seaside_cave_wallpaper_0: -5840216180890561727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

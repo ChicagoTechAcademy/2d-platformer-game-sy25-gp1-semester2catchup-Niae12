@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gunwomanWALKright (4)_0: -572410104867944565
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

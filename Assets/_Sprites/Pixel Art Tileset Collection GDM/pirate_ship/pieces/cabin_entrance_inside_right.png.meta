@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cabin_entrance_inside_right_0: -8500976147098962138
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

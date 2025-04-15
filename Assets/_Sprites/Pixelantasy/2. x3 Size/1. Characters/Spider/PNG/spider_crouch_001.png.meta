@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      spider_crouch_001_0: -4539343036431820653
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

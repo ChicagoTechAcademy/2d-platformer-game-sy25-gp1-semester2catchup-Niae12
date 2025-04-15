@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forest_of_whispers_wallpaper_0: -1236150856429498155
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

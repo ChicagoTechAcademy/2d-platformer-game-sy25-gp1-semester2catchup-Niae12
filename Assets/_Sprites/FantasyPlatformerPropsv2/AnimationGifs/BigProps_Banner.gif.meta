@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigProps_Banner_0: -2470380694277248427
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

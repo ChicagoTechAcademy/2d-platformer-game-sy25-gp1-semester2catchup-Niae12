@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeletonWALKleft (1)_0: -5478675569031211196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

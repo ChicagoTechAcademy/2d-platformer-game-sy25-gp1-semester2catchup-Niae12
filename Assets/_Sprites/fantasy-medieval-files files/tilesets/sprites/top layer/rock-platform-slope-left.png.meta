@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock-platform-slope-left_0: 8596585617498605190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

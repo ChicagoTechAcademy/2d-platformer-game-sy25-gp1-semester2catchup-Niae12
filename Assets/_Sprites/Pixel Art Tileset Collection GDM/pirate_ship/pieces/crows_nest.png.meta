@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      crows_nest_0: 7420115982414660466
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_door_open_f13_0: -6371376349431611916
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

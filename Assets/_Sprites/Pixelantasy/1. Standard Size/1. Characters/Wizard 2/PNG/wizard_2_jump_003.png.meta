@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      wizard_2_jump_003_0: 7522229963919572898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

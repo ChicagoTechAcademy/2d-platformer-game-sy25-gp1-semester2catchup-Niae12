@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      rock_destroyed_003_0: 4067714286910840462
+      rock_destroyed_003_1: -5453255052844161076
+      rock_destroyed_003_2: -7929338987809549834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

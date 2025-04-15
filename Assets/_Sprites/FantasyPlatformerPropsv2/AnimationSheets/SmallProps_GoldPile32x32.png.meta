@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallProps_GoldPile32x32_0: 5957427721861224583
+      SmallProps_GoldPile32x32_1: 4010791258691636274
+      SmallProps_GoldPile32x32_2: -2674746893153904908
+      SmallProps_GoldPile32x32_3: -2769414901240976725
+      SmallProps_GoldPile32x32_4: 2039870621961477314
+      SmallProps_GoldPile32x32_5: -7684270855003941316
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

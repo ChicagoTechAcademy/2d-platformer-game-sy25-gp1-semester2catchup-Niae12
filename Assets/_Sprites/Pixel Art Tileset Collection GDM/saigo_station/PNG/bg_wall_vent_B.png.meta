@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_wall_vent_B_0: 3963397013676721303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

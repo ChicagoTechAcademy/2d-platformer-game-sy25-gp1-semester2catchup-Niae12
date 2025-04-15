@@ -510,7 +510,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      water-animation_0: -7349999223442330029
+      water-animation_1: 7785583596000909925
+      water-animation_10: 7468124283953253483
+      water-animation_11: 1965445294397878444
+      water-animation_12: -3104483444007873245
+      water-animation_13: 65870495309535589
+      water-animation_14: -8279029379396703151
+      water-animation_2: -4830857952706197988
+      water-animation_3: -7871387082336028699
+      water-animation_4: -3080690439136597753
+      water-animation_5: 4761917797843437074
+      water-animation_6: -2989072671872883799
+      water-animation_7: -1667246048555702392
+      water-animation_8: -5426901335663211531
+      water-animation_9: -2454357339249339890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

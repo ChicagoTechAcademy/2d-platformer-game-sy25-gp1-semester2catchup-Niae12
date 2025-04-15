@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_bridge_right_0: -7577145637326396958
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

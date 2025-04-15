@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallProps_Campfire32x32_0: 8513743137689970091
+      SmallProps_Campfire32x32_1: 7702660891995115955
+      SmallProps_Campfire32x32_2: 4536049213428260061
+      SmallProps_Campfire32x32_3: 3034564668407214377
+      SmallProps_Campfire32x32_4: -7323938476573696879
+      SmallProps_Campfire32x32_5: -3955480290963220742
+      SmallProps_Campfire32x32_6: 3726478677124949100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

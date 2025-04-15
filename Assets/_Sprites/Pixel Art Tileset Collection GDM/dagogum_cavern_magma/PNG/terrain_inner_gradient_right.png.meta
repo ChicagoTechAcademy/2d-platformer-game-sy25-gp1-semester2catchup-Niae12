@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_inner_gradient_right_0: -4162817580232264038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

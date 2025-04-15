@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      peasant_walk_008_0: -4330725687237929250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

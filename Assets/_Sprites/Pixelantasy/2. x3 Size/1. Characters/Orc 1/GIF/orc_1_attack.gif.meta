@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orc_1_attack_0: 4072016917176090608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

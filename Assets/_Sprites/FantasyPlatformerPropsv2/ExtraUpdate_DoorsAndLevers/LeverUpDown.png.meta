@@ -435,7 +435,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      LeverUpDown_0: 9213700464405591616
+      LeverUpDown_1: 3638596968660630961
+      LeverUpDown_10: 3540646277093398844
+      LeverUpDown_11: 8093961732595572642
+      LeverUpDown_2: -4017249873444863852
+      LeverUpDown_3: 3276941258685374740
+      LeverUpDown_4: -7163118137004563529
+      LeverUpDown_5: 2255823772564818000
+      LeverUpDown_6: -7109990569190584284
+      LeverUpDown_7: 4302076769332111725
+      LeverUpDown_8: 2059931719798615527
+      LeverUpDown_9: -4393201782121122604
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

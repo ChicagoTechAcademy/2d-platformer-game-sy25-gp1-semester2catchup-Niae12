@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BigProps_FountainBig_0: -3830204610478324101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

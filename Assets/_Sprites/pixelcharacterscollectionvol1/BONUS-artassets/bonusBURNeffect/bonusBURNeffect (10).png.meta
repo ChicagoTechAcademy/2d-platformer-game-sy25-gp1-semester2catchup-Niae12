@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonusBURNeffect (10)_0: -2030073155292702709
+      bonusBURNeffect (10)_1: 7875046414423698677
+      bonusBURNeffect (10)_2: 3220027490921218691
+      bonusBURNeffect (10)_3: -2916220415764794482
+      bonusBURNeffect (10)_4: 7396492584149287804
+      bonusBURNeffect (10)_5: -3027350296826555268
+      bonusBURNeffect (10)_6: 9097831803716650727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

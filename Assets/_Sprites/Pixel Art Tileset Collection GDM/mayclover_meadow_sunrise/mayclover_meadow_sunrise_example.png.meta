@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mayclover_meadow_sunrise_example_0: 8462650415917404455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

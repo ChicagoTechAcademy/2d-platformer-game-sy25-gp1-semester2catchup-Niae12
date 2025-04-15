@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      treant_walk_002_0: -6803130200294023053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

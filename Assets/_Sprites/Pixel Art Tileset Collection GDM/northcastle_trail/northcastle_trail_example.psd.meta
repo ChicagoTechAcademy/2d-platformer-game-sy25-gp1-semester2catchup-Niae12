@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      northcastle_trail_example_0: -1592427978617342890
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

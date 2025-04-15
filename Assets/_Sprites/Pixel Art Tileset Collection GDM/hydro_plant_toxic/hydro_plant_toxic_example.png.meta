@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hydro_plant_toxic_example_0: 8530666723159928503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

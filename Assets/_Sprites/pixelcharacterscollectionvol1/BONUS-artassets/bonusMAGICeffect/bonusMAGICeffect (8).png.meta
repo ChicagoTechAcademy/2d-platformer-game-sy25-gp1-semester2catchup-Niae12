@@ -835,7 +835,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonusMAGICeffect (8)_0: 6154732073296113208
+      bonusMAGICeffect (8)_1: 1020862798233291983
+      bonusMAGICeffect (8)_10: -5918145126980439066
+      bonusMAGICeffect (8)_11: -5620055262566969659
+      bonusMAGICeffect (8)_12: 7371264420992512611
+      bonusMAGICeffect (8)_13: -5063082331407593017
+      bonusMAGICeffect (8)_14: 8750670921322740902
+      bonusMAGICeffect (8)_15: 7750129198527388994
+      bonusMAGICeffect (8)_16: 5429156239375466925
+      bonusMAGICeffect (8)_17: -5859413921884068116
+      bonusMAGICeffect (8)_18: -6574759352056474186
+      bonusMAGICeffect (8)_19: 2519748089800574256
+      bonusMAGICeffect (8)_2: 4926749133368717279
+      bonusMAGICeffect (8)_20: 4971086970462906720
+      bonusMAGICeffect (8)_21: 5949051252152964641
+      bonusMAGICeffect (8)_22: 1663706325255670193
+      bonusMAGICeffect (8)_23: -50857450792879088
+      bonusMAGICeffect (8)_24: -6045325996729615113
+      bonusMAGICeffect (8)_25: -3457027426049161108
+      bonusMAGICeffect (8)_26: -6142106852359575372
+      bonusMAGICeffect (8)_27: -2132080144352202562
+      bonusMAGICeffect (8)_3: -7855905157020201803
+      bonusMAGICeffect (8)_4: -8879584920888800943
+      bonusMAGICeffect (8)_5: -2639194443669763998
+      bonusMAGICeffect (8)_6: -1479945781334502737
+      bonusMAGICeffect (8)_7: 5884665968789296483
+      bonusMAGICeffect (8)_8: 315300569363447959
+      bonusMAGICeffect (8)_9: -1858827737167076283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

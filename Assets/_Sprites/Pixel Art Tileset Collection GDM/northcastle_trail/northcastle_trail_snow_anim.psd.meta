@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      northcastle_trail_snow_anim_0: -7439732156783933721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

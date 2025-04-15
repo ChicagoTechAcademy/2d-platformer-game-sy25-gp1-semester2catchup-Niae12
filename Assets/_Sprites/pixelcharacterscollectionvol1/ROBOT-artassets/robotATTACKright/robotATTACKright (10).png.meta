@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      robotATTACKright (10)_0: -5743378428015421397
+      robotATTACKright (10)_1: -1163869675642994787
+      robotATTACKright (10)_2: 7275643634836846159
+      robotATTACKright (10)_3: 1498136397154252171
+      robotATTACKright (10)_4: -2766068476617766780
+      robotATTACKright (10)_5: -5159372627417880962
+      robotATTACKright (10)_6: 7214047518833594544
+      robotATTACKright (10)_7: -2439762502831915923
+      robotATTACKright (10)_8: -7526415050559826925
+      robotATTACKright (10)_9: 927858553798912163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

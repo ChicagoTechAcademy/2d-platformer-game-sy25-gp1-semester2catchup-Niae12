@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      elevator_terrain_intersection_0: -8171944983685364607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

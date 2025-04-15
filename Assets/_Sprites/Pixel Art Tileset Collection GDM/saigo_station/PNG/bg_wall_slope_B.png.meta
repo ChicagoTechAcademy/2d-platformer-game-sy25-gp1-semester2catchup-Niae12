@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_wall_slope_B_0: -5237582115637711432
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

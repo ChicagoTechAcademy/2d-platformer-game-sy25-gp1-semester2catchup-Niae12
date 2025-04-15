@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      character-shield-VFX_001_0: -4284534904117489307
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

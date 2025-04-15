@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      TileableFence32x32px_0: -6038769373467785783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

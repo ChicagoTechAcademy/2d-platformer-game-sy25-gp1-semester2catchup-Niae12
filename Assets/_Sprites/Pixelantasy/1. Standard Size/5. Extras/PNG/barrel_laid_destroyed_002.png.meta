@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barrel_laid_destroyed_002_0: 759273480812515142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

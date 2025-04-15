@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      orbital_starbase_example_0: -5075624883640419509
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

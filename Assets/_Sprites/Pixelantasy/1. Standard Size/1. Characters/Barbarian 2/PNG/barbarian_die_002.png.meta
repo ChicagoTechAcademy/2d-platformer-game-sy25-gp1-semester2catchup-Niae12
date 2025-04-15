@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      barbarian_die_002_0: -7792767442536024680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

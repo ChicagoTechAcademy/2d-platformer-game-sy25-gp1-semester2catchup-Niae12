@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      northcastle_trail_wallpaper_0: -7577080633068921470
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

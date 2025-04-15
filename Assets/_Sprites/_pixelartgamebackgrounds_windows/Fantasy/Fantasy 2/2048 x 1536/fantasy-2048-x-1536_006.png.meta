@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fantasy-2048-x-1536_006_0: 4993233338989355777
+      fantasy-2048-x-1536_006_1: -6522082664834909191
+      fantasy-2048-x-1536_006_2: 8242867166600165732
+      fantasy-2048-x-1536_006_3: 2300261486666726757
+      fantasy-2048-x-1536_006_4: -3208814504110363152
+      fantasy-2048-x-1536_006_5: -2522904902273270509
+      fantasy-2048-x-1536_006_6: -3976355370044621426
+      fantasy-2048-x-1536_006_7: -4671138747945431226
+      fantasy-2048-x-1536_006_8: -4554952676892494648
+      fantasy-2048-x-1536_006_9: -6423385033423475782
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forest_of_whispers_morning_mist_wallpaper_0: 1191956018852368376
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

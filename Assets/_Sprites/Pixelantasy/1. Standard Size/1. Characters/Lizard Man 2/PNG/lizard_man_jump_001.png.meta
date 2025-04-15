@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lizard_man_jump_001_0: -4972767379251770528
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonusSPARKLEeffect (4)_0: 1974615390075657442
+      bonusSPARKLEeffect (4)_1: 1513771354059843219
+      bonusSPARKLEeffect (4)_2: 2542784829988381062
+      bonusSPARKLEeffect (4)_3: 3292152504219326717
+      bonusSPARKLEeffect (4)_4: -304323073613522541
+      bonusSPARKLEeffect (4)_5: 2502776262929987834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

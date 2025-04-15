@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_room_window_bottom_left_0: 8978509264199814972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

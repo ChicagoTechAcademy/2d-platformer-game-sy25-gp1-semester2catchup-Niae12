@@ -285,7 +285,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallProps_Torch32x32_0: 2719827957498585445
+      SmallProps_Torch32x32_1: 803906993184939419
+      SmallProps_Torch32x32_2: -5248701379881304338
+      SmallProps_Torch32x32_3: -4034186471298912678
+      SmallProps_Torch32x32_4: -6247112198818634193
+      SmallProps_Torch32x32_5: -2760240234018097005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

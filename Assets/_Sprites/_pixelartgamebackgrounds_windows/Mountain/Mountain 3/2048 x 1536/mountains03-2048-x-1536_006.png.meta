@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mountains03-2048-x-1536_006_0: 19093729175340410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      big-rock-platform-slope-left-ground_0: -8911541470661715829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

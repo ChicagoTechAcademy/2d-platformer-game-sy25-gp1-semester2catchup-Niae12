@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      medusa_walk_002_0: 1709889160752602949
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

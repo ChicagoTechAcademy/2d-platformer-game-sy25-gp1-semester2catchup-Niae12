@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magma_center_0: -1525888527549481902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      medusa_jump_0: 9148016722174776256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

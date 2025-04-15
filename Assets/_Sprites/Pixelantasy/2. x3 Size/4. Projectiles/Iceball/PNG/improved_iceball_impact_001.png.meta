@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      improved_iceball_impact_001_0: -1909766937694354352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

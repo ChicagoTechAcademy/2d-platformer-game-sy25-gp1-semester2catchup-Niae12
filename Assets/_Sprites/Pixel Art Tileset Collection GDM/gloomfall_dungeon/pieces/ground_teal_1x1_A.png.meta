@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ground_teal_1x1_A_0: 8511761435572729990
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

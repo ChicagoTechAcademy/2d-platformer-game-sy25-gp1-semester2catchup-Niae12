@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dwarf_walk_007_0: 5108539028357882806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

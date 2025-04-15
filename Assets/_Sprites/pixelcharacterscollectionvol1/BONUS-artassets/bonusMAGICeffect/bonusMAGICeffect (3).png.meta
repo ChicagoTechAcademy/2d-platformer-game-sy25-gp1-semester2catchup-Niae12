@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bonusMAGICeffect (3)_0: -7977648631689052406
+      bonusMAGICeffect (3)_1: -6984499481314845392
+      bonusMAGICeffect (3)_2: -1954945714142696247
+      bonusMAGICeffect (3)_3: -1915062938504391601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_towers_far_0: 1022182263839592695
+      bg_towers_far_1: -1373736043622295790
+      bg_towers_far_2: -1594179130653418925
+      bg_towers_far_3: -9183591147346804632
+      bg_towers_far_4: 961184665435968795
+      bg_towers_far_5: 8003612182243930345
+      bg_towers_far_6: 1450424241690169542
+      bg_towers_far_7: 1250228414787567657
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

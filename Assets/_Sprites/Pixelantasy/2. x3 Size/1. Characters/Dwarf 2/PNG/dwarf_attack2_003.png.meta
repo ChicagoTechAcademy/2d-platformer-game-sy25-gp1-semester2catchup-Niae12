@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dwarf_attack2_003_0: 6690451676307894763
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

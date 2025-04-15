@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_hook_holder_connector_right_0: -6701894987017446262
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

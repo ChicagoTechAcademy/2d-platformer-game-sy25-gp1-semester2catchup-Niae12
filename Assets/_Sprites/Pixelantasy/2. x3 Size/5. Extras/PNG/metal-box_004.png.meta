@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      metal-box_004_0: 711533811902568498
+      metal-box_004_1: -7398558809666556403
+      metal-box_004_2: 5944367802571399146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

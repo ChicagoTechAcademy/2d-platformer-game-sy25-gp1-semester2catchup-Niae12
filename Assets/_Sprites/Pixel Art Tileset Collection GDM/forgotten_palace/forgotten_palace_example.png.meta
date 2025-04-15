@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forgotten_palace_example_0: -5816930806527140098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

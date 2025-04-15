@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeleton_jump_002_0: -8963568826341501426
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

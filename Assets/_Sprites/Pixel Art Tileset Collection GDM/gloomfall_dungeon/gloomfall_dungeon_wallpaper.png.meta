@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gloomfall_dungeon_wallpaper_0: 7485637224245722801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

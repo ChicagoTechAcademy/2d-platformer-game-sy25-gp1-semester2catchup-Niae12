@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      robotIMPACTeffect (6)_0: 8047865918367417094
+      robotIMPACTeffect (6)_1: 4315557401362795196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

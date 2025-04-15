@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gloomfall_dungeon_animated_promo_0: 6640794174046551221
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

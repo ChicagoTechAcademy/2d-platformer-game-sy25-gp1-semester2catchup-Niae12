@@ -460,7 +460,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      magePOWERUPright (14)_0: -5690707673875075704
+      magePOWERUPright (14)_1: 4067766595047059010
+      magePOWERUPright (14)_10: -5566214337227748367
+      magePOWERUPright (14)_11: 8220554285767457205
+      magePOWERUPright (14)_12: 269018410250152819
+      magePOWERUPright (14)_2: -4432720038372988335
+      magePOWERUPright (14)_3: -4105362135364394431
+      magePOWERUPright (14)_4: -5208553039229912420
+      magePOWERUPright (14)_5: 9041793378426283844
+      magePOWERUPright (14)_6: -3056590227694169599
+      magePOWERUPright (14)_7: 1398543554630928203
+      magePOWERUPright (14)_8: 409347035295421051
+      magePOWERUPright (14)_9: -4223210926502038824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

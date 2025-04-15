@@ -1085,7 +1085,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DecorsAllTogetherStatic32x32_0: -8435058743925233545
+      DecorsAllTogetherStatic32x32_1: 5829499922886672812
+      DecorsAllTogetherStatic32x32_10: 415472601784836455
+      DecorsAllTogetherStatic32x32_11: 3808140245047829869
+      DecorsAllTogetherStatic32x32_12: -5276571111819287145
+      DecorsAllTogetherStatic32x32_13: -6656933033879842503
+      DecorsAllTogetherStatic32x32_14: -2722611078835070960
+      DecorsAllTogetherStatic32x32_15: 3881069598894748748
+      DecorsAllTogetherStatic32x32_16: -7067518488924882686
+      DecorsAllTogetherStatic32x32_17: 1822051381046874279
+      DecorsAllTogetherStatic32x32_18: 5206707159855700091
+      DecorsAllTogetherStatic32x32_19: -3752848483390193506
+      DecorsAllTogetherStatic32x32_2: 500565753940605097
+      DecorsAllTogetherStatic32x32_20: 3244924820246162720
+      DecorsAllTogetherStatic32x32_21: 906103066081183158
+      DecorsAllTogetherStatic32x32_22: -4341211428554829415
+      DecorsAllTogetherStatic32x32_23: 2184673136990905385
+      DecorsAllTogetherStatic32x32_24: 7220877803203800381
+      DecorsAllTogetherStatic32x32_25: -5372730261943755814
+      DecorsAllTogetherStatic32x32_26: 2735646142021641172
+      DecorsAllTogetherStatic32x32_27: -6580673913008756035
+      DecorsAllTogetherStatic32x32_28: 5442102690039267069
+      DecorsAllTogetherStatic32x32_29: 6639632183260661330
+      DecorsAllTogetherStatic32x32_3: 1741522264789745829
+      DecorsAllTogetherStatic32x32_30: -8382343909031790295
+      DecorsAllTogetherStatic32x32_31: -5405665034693861147
+      DecorsAllTogetherStatic32x32_32: 3914264441380554028
+      DecorsAllTogetherStatic32x32_33: -6522598952488339743
+      DecorsAllTogetherStatic32x32_34: -5324068313120176290
+      DecorsAllTogetherStatic32x32_35: -196929063292460675
+      DecorsAllTogetherStatic32x32_36: -5130748669312141804
+      DecorsAllTogetherStatic32x32_37: -7756871530198454852
+      DecorsAllTogetherStatic32x32_4: 3934295079501273856
+      DecorsAllTogetherStatic32x32_5: -4189614544277627280
+      DecorsAllTogetherStatic32x32_6: 3000330493608868534
+      DecorsAllTogetherStatic32x32_7: -8382798634538930733
+      DecorsAllTogetherStatic32x32_8: -5262936408235984919
+      DecorsAllTogetherStatic32x32_9: 6206840036269775902
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

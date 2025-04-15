@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      metal-box_002_0: 875808712724489977
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

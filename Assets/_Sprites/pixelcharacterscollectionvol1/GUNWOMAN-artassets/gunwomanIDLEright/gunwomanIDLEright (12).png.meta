@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gunwomanIDLEright (12)_0: -8335841114525600603
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

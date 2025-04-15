@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      forest_of_whispers_verdant_woods_example_0: 132757844403453463
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

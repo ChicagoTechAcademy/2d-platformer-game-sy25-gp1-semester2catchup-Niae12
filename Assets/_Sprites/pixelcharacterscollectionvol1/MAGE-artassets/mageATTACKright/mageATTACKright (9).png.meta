@@ -385,7 +385,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      mageATTACKright (9)_0: -6161732733251239676
+      mageATTACKright (9)_1: -4245352414122509208
+      mageATTACKright (9)_2: 1805519754122112944
+      mageATTACKright (9)_3: -3223467364425810416
+      mageATTACKright (9)_4: -8497144663769258439
+      mageATTACKright (9)_5: -6873716415369837498
+      mageATTACKright (9)_6: -5723531414714370307
+      mageATTACKright (9)_7: -1838816372288235082
+      mageATTACKright (9)_8: -8629832868500757801
+      mageATTACKright (9)_9: 5202973689009306986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

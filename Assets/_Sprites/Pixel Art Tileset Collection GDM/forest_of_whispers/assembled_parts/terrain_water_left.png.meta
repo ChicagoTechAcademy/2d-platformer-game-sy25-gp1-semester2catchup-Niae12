@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_water_left_0: -92422394631484162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

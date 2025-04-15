@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      green_poison_001_0: 5295173883445237989
+      green_poison_001_1: 3081357225664327429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

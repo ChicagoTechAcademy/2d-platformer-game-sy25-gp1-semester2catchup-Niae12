@@ -335,7 +335,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      skeletonIMPACTeffect (6)_0: 9200944269674626183
+      skeletonIMPACTeffect (6)_1: 7298498837176051215
+      skeletonIMPACTeffect (6)_2: 1594513983771902159
+      skeletonIMPACTeffect (6)_3: -2712576533719004165
+      skeletonIMPACTeffect (6)_4: -64611159674882921
+      skeletonIMPACTeffect (6)_5: 9096755168952645104
+      skeletonIMPACTeffect (6)_6: -4587241087206057313
+      skeletonIMPACTeffect (6)_7: 8346737003253382501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

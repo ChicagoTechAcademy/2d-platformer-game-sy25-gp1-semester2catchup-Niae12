@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bg_door_close_f12_0: -4320635811638010235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

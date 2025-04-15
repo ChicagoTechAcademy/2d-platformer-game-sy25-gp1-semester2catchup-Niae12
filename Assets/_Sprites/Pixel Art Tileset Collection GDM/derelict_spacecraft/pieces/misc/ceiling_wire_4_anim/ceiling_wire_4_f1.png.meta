@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ceiling_wire_4_f1_0: 6191431761893702811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

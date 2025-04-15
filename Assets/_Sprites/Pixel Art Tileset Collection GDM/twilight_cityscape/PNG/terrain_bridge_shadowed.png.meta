@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      terrain_bridge_shadowed_0: 2449730250748906840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

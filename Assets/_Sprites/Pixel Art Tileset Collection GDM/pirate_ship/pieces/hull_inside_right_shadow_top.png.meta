@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hull_inside_right_shadow_top_0: 3422709430096744729
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

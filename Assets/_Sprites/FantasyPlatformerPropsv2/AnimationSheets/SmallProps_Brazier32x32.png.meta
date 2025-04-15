@@ -310,7 +310,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SmallProps_Brazier32x32_0: 7342581964446444221
+      SmallProps_Brazier32x32_1: -8671245261229155710
+      SmallProps_Brazier32x32_2: -1048587958531010892
+      SmallProps_Brazier32x32_3: 3392542208892071878
+      SmallProps_Brazier32x32_4: -7254274778299889936
+      SmallProps_Brazier32x32_5: -1104295047574221471
+      SmallProps_Brazier32x32_6: 262347373119055538
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

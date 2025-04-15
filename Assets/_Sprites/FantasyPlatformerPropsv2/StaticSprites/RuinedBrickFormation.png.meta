@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      RuinedBrickFormation_0: -3440270625782242219
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

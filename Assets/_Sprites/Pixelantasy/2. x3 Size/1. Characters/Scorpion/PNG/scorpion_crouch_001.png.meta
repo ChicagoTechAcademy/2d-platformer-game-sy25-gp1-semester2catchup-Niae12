@@ -160,7 +160,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      scorpion_crouch_001_0: -7998333825759215062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
