@@ -85,7 +85,7 @@ public class PlayerController : MonoBehaviour
         }
 
         // handles the fall animation
-        if(isGrounded == false && rb.linearVelocityY < 0)
+        if (isGrounded == false && rb.linearVelocityY < 0)
         {
             animator.SetBool("isJumping", false);
             animator.SetBool("isRunning", false);
@@ -98,6 +98,16 @@ public class PlayerController : MonoBehaviour
 
     }
 
+public void PlayerDeath()
+{
+    animator.SetBool("isDead", true);
+    Destroy(this.gameObject, 3.0f);
+}
+    public void knockback(float knockleft, float knockUp)
+    {
+       rb.linearVelocity = new Vector2 (-knockleft, jumpForce);
+
+    }
     private void OnCollisionEnter2D(Collision2D other)
     {
         if (other.gameObject.layer == LayerMask.NameToLayer("Ground"))
